@@ -176,7 +176,7 @@
         <Container class="javax.swing.JPanel" name="jPanel2">
           <Properties>
             <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-              <Color blue="0" green="0" red="ff" type="rgb"/>
+              <Color blue="0" green="cc" red="ff" type="rgb"/>
             </Property>
           </Properties>
 
@@ -203,7 +203,7 @@
                   <Font name="Century Gothic" size="13" style="1"/>
                 </Property>
                 <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-                  <Color blue="0" green="ff" red="ff" type="rgb"/>
+                  <Color blue="0" green="0" red="ff" type="rgb"/>
                 </Property>
                 <Property name="horizontalAlignment" type="int" value="0"/>
                 <Property name="text" type="java.lang.String" value="&lt;html&gt; &lt;body&gt; &lt;p align=&quot;center&quot;&gt; &lt;font color=&quot;White&quot;&gt;&lt;b&gt;Explicacion:&lt;/b&gt; &lt;/font&gt; Primero se encontrara con esta ventana, en la parte superior, &lt;br&gt;izquierda vera un menu, el cual tiene dos opciones:&lt;br&gt; realizar pedido y calcular pago&lt;br&gt; en la parte de realizar pedido se encuentra con un formulario&lt;br&gt; en el usted debera ingresar datos, asi como seleccionar opciones&lt;br&gt; y finalmente imprimir lo que usted ingreso y selecciono.&lt;br&gt;En la parte de calcular pago, solo visitelo, ahi en la &lt;br&gt;misma venta viene otra explicacion al lado. Gracias&lt;/p&gt; &lt;/body&gt; &lt;/html&gt;"/>

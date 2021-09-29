@@ -37,7 +37,7 @@
     <Container class="javax.swing.JPanel" name="jPanel1">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-          <Color blue="0" green="33" red="cc" type="rgb"/>
+          <Color blue="66" green="cc" red="0" type="rgb"/>
         </Property>
       </Properties>
 
@@ -85,7 +85,7 @@
                   </Group>
                   <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
                   <Component id="jLabel4" min="-2" pref="249" max="-2" attributes="0"/>
-                  <EmptySpace pref="18" max="32767" attributes="0"/>
+                  <EmptySpace pref="22" max="32767" attributes="0"/>
               </Group>
           </Group>
         </DimensionLayout>
@@ -162,7 +162,7 @@
         <Component class="javax.swing.JLabel" name="jLabel1">
           <Properties>
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-              <Font name="Century Gothic" size="14" style="0"/>
+              <Font name="Century Gothic" size="14" style="1"/>
             </Property>
             <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="ff" green="ff" red="ff" type="rgb"/>
@@ -197,7 +197,7 @@
         <Component class="javax.swing.JLabel" name="jLabel2">
           <Properties>
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-              <Font name="Century Gothic" size="12" style="0"/>
+              <Font name="Century Gothic" size="12" style="1"/>
             </Property>
             <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="ff" green="ff" red="ff" type="rgb"/>
@@ -211,7 +211,7 @@
               <Font name="Century Gothic" size="13" style="1"/>
             </Property>
             <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-              <Color blue="0" green="ff" red="ff" type="rgb"/>
+              <Color blue="0" green="0" red="ff" type="rgb"/>
             </Property>
             <Property name="horizontalAlignment" type="int" value="0"/>
             <Property name="text" type="java.lang.String" value="&lt;html&gt; &lt;body&gt; &lt;p align=&quot;center&quot;&gt; &lt;font color=&quot;White&quot;&gt;&lt;b&gt;Explicacion:&lt;/b&gt; &lt;/font&gt; Primero usted ingresa la cantidad de libros que rentara, &lt;br&gt;despues selecciona el o los paquetes de dias que rentara,&lt;br&gt; estos paquetes son acumulables, por ejemplo, si es un libro&lt;br&gt; puede escoger los 3 paquetes con un total de 400&lt;br&gt;si son 2 libros seran 800 y asi sucesivamente&lt;br&gt; sin embargo tambien es libre de escoger uno o dos paquetes&lt;br&gt; el precio sera justo.&lt;br&gt;Finalmente de calcular y vera la sumatoria&lt;/p&gt; &lt;/body&gt; &lt;/html&gt;"/>

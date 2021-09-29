@@ -46,7 +46,7 @@ public class CalcularGasto extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
         setTitle("Ventana calcular gasto");
 
-        jPanel1.setBackground(new java.awt.Color(204, 51, 0));
+        jPanel1.setBackground(new java.awt.Color(0, 204, 102));
 
         jToggleButton1.setText("1-3 Dias");
         jToggleButton1.addActionListener(new java.awt.event.ActionListener() {
@@ -72,7 +72,7 @@ public class CalcularGasto extends javax.swing.JFrame {
             }
         });
 
-        jLabel1.setFont(new java.awt.Font("Century Gothic", 0, 14)); // NOI18N
+        jLabel1.setFont(new java.awt.Font("Century Gothic", 1, 14)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(255, 255, 255));
         jLabel1.setText("Ingresa cuantos libros rentaras");
 
@@ -84,12 +84,12 @@ public class CalcularGasto extends javax.swing.JFrame {
 
         Eochoa10.setText("150");
 
-        jLabel2.setFont(new java.awt.Font("Century Gothic", 0, 12)); // NOI18N
+        jLabel2.setFont(new java.awt.Font("Century Gothic", 1, 12)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(255, 255, 255));
         jLabel2.setText("Selecciona el paquete a rentar");
 
         jLabel4.setFont(new java.awt.Font("Century Gothic", 1, 13)); // NOI18N
-        jLabel4.setForeground(new java.awt.Color(255, 255, 0));
+        jLabel4.setForeground(new java.awt.Color(255, 0, 0));
         jLabel4.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel4.setText("<html> <body> <p align=\"center\"> <font color=\"White\"><b>Explicacion:</b> </font> Primero usted ingresa la cantidad de libros que rentara, <br>despues selecciona el o los paquetes de dias que rentara,<br> estos paquetes son acumulables, por ejemplo, si es un libro<br> puede escoger los 3 paquetes con un total de 400<br>si son 2 libros seran 800 y asi sucesivamente<br> sin embargo tambien es libre de escoger uno o dos paquetes<br> el precio sera justo.<br>Finalmente de calcular y vera la sumatoria</p> </body> </html>");
         jLabel4.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(255, 255, 255)));
@@ -128,7 +128,7 @@ public class CalcularGasto extends javax.swing.JFrame {
                                     .addGap(0, 0, Short.MAX_VALUE))))))
                 .addGap(23, 23, 23)
                 .addComponent(jLabel4, javax.swing.GroupLayout.PREFERRED_SIZE, 249, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(18, Short.MAX_VALUE))
+                .addContainerGap(22, Short.MAX_VALUE))
         );
         jPanel1Layout.setVerticalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)

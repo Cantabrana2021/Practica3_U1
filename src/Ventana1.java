@@ -53,10 +53,10 @@ public class Ventana1 extends javax.swing.JFrame {
         jLabel3.setForeground(new java.awt.Color(255, 255, 255));
         jLabel3.setText("de biblioteca-registro-presupuesto");
 
-        jPanel2.setBackground(new java.awt.Color(255, 0, 0));
+        jPanel2.setBackground(new java.awt.Color(255, 204, 0));
 
         jLabel4.setFont(new java.awt.Font("Century Gothic", 1, 13)); // NOI18N
-        jLabel4.setForeground(new java.awt.Color(255, 255, 0));
+        jLabel4.setForeground(new java.awt.Color(255, 0, 0));
         jLabel4.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel4.setText("<html> <body> <p align=\"center\"> <font color=\"White\"><b>Explicacion:</b> </font> Primero se encontrara con esta ventana, en la parte superior, <br>izquierda vera un menu, el cual tiene dos opciones:<br> realizar pedido y calcular pago<br> en la parte de realizar pedido se encuentra con un formulario<br> en el usted debera ingresar datos, asi como seleccionar opciones<br> y finalmente imprimir lo que usted ingreso y selecciono.<br>En la parte de calcular pago, solo visitelo, ahi en la <br>misma venta viene otra explicacion al lado. Gracias</p> </body> </html>");
         jLabel4.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(255, 255, 255)));
